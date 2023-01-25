@@ -1,8 +1,8 @@
 # Github de João Lucas
 
 ## Breve descrição sobre quem eu sou.
-🎓 Sou técnico em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG.
-🏫 Atualmente, curso o bacharelado de Ciência da Computação pela UFMG.
+🎓 Sou técnico em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG. <br>
+🏫 Atualmente, curso o bacharelado de Ciência da Computação pela UFMG. <br>
 💻 Atuo na empresa júnior iJunior Soluções Digitais, como assessor dos Recursos Humanos e desenvolvedor TypeScript, e atuo no Ministério Público de Minas Gerais, como bolsista FUNDEP!
 
 ## Stats
