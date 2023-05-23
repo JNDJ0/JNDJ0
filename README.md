@@ -3,7 +3,7 @@
 ## Breve descrição sobre quem eu sou.
 🎓 Sou técnico em Desenvolvimento de Sistemas pelo Colégio Técnico da UFMG. <br>
 🏫 Atualmente, curso o bacharelado de Ciência da Computação pela UFMG. <br>
-💻 Atuo na empresa júnior iJunior Soluções Digitais, como assessor dos Recursos Humanos e desenvolvedor backend, e atuo no Ministério Público de Minas Gerais, como bolsista FUNDEP.
+💻 Atuo na empresa júnior iJunior Soluções Digitais, como assessor dos Recursos Humanos e desenvolvedor backend.
 
 <a href="https://github.com/JNDJ0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JNDJ0&show_icons=true&theme=synthwave&line_height=20" />
