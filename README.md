@@ -5,7 +5,7 @@
 🏫 Atualmente cursando o bacharelado de Ciência da Computação pela UFMG. <br>
 💻 Experiência como assessor de RH e desenvolvedor backend na empresa iJunior Soluções Digitais; como auxiliar de pesquisa nos projetos PCA-MPMG e CIIA-Saúde; como Trainee em desenvolvimento full-stack na SYDLE. <br>
 
-(Linkedin)[https://www.linkedin.com/in/joaolucassmoreira/]
+[LinkedIn](https://www.linkedin.com/in/joaolucassmoreira/)
 
 <a href="https://github.com/JNDJ0">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JNDJ0&show_icons=true&theme=synthwave&line_height=20" />
